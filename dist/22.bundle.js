@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo1=self.webpackChunkdemo1||[]).push([[22],{22:(e,l,s)=>{s.r(l),s.d(l,{default:()=>u});var t=function(){return(0,this._self._c)("div",{staticClass:"home"},[this._v("hello home")])};t._withStripped=!0;const u=(0,s(900).Z)({},t,[],!1,null,null,null).exports}}]);
